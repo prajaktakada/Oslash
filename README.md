@@ -9,4 +9,5 @@ https://osl.sh/backend-assignment
 # 1).clone repository
 # 2).cd radium
 # 3).npm i
-# 4).node index.js
+# 4).cd src
+# 5).node index.js
